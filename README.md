@@ -1,6 +1,6 @@
 <!--  ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)  -->
 <h1 align="center"> Hi 👋, Sidnney Gove</h1>
-<h3 align="center">A passionate FullStack Developer from Mozambique</h3>
+<h2 align="center">A passionate FullStack Developer from Mozambique</h3>
 <!--
 **sidnneygove/sidnneygove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Languages and Tools:
+<h3 align="left"> Languages and Tools:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sidnney-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sidnney-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Sidnney-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Sidnney-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
 </div>
-## Contact with me: 
+<h3 align="left">Contact with me:</h3>
 <div>
   <a href = "mailto:spgove@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sidnney-gove-086a99263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
