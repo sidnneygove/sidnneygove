@@ -1,5 +1,5 @@
 <!--  ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)  -->
-<h1 align="center"> Hi 👋, Sidnney Gove</h1>
+<h1 align="center"> Hi 👋, I'm Sidnney Gove</h1>
 <h2 align="center">A passionate FullStack Developer from Mozambique</h3>
 
 <h3 align="left"> Languages and Tools:</h3>
